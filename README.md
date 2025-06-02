@@ -1,9 +1,9 @@
-<h1 align="center">Hola👋, Me llamo Lenin Flores</h1>
+<h1 align="center">Hola👋, Me llamo Lenin Israel Flores Betancourt</h1>
 <h3 align="center">Soy, Ingeniero en Sistemas con experiencia en Análisis de Datos, procesos ETL y desarrollo Web (Frontend y Backend).</h3>
 
-- 💬 Puedes preguntarme sobre **Python, Django, SQL, HTLM, CSS y Bootstrap**
+- 💬 Puedes preguntarme sobre: **Python, Django, SQL, HTLM, CSS y Bootstrap**
 
-- 📫 Puedes escribirme a **leninisrael15@gmail.com**
+- 📫 Puedes escribirme a: **leninisrael15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
