@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, Me llamo Lenin Israel Flores Betancourt</h1>
-<h3 align="center">Soy, Ingeniero en Sistemas con experiencia en Análisis de Datos, procesos ETL y desarrollo Web (Frontend y Backend).</h3>
+<h3 align="center">Soy, Ingeniero en Sistemas con experiencia en BI & Análisis de Datos, procesos ETL, DBA (Administración de Base de Datos) y desarrollo Web (Frontend y Backend).</h3>
 
 - 💬 Puedes preguntarme sobre: **Python, Django, SQL, HTLM, CSS y Bootstrap**
 
